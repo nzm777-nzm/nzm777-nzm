@@ -53,4 +53,4 @@
 
 ---
 
-⭐️ From [Nazeem (nzm-777)](https://github.com/nzm-777)
+⭐️ From [Nazeem (nzm-777)](https://github.com/nzm777-nzm)
