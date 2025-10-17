@@ -13,10 +13,6 @@
 - 💬 Ask me about **Python, Django, React, REST API, and MySQL**  
 - 👯 I’m looking to collaborate on **real-world web applications**  
 - ⚡ Fun fact: I love **football, singing, and building creative solutions**
-- <p>my portfolio
-<a href="https://nzm-portfolio.vercel.app/" target="_blank">
-</p>
-
 ---
 
 ### 🧠 Tech Stack  
