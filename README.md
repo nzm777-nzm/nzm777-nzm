@@ -40,13 +40,13 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/nazeem-pm" target="_blank">
+  <a href="https://www.linkedin.com/in/nazeem-pm-a9423032a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:nazeempm7@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/nzm-777" target="_blank">
+  <a href="http://github.com/nzm777-nzm" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
