@@ -4,8 +4,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/nzm777-nzm/nzm777-nzm/blob/main/banner.png" alt="Nazeem PM Banner" width="100%" />
+
+<img width="2000" height="400" alt="header_" src="https://github.com/user-attachments/assets/e4507ab8-bb00-4ed6-8bcf-ccc949103fb6" />
+ 
 </p>
+
 
 
 <!-- Subtitle -->
