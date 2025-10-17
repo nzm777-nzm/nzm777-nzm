@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nazeem+👋;Full+Stack+Developer;Python+%7C+Django+%7C+React+%7C+MySQL;Let's+Build+Something+Amazing+Together!">
 </h1>
 
+<p align="center">
+  <img src="https://github.com/nzm777-nzm/nzm777-nzm/blob/main/banner.png" alt="Nazeem PM Banner" width="100%" />
+</p>
+
+
 <!-- Subtitle -->
 <h3 align="center">🚀 Passionate Full Stack Developer | Turning Ideas into Scalable Web Apps</h3>
 
