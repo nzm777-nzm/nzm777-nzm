@@ -1,46 +1,56 @@
-# 👋 Hi, I'm nzm777-nzm
+<h1 align="center">Hi 👋, I'm Nazeem</h1>
+<h3 align="center">💻 Passionate Python Full Stack Developer from Kerala, India</h3>
 
-I make simple things with neural networks.
-
----
-
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nzm777-nzm&label=Profile%20views&color=0e75b6&style=flat" alt="nzm-777" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nzm777-nzm&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nzm777-nzm&layout=compact&theme=radical)
-
----
-
-## 🧠 Featured Projects
-
-- 🧩 [Sudoku Solver](https://github.com/nzm777-nzm/sudoku)
-- 🕹️ [Tetris Clone](https://github.com/nzm777-nzm/tetris)
-- 🔢 [2048 Game](https://github.com/nzm777-nzm/2048)
-- 📄 [index.md](https://github.com/nzm777-nzm/index.md)
+### 🚀 About Me  
+- 🔭 I’m currently working on **Full Stack Projects (React + Django + MySQL)**  
+- 🌱 I’m currently learning **Advanced React, REST APIs, and Cloud Deployment**  
+- 💬 Ask me about **Python, Django, React, REST API, and MySQL**  
+- 👯 I’m looking to collaborate on **real-world web applications**  
+- ⚡ Fun fact: I love **football, singing, and building creative solutions**
 
 ---
 
-## 🌐 Connect with Me
-
-[🌍 Website](https://yourwebsite.com) • [🐦 Twitter](https://twitter.com/yourhandle) • [💼 LinkedIn](https://linkedin.com/in/yourprofile)
+### 🧠 Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,tailwind,js,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 🎨 Banner Image
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nzm777-nzm&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-Upload a banner image to your repo and embed it like this:
-```markdown
-![Banner](./banner.png)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzm777-nzm&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzm777-nzm&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/nazeem-pm" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:nazeempm7@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/nzm-777" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+⭐️ From [Nazeem (nzm-777)](https://github.com/nzm777-nzm)
