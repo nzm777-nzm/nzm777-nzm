@@ -18,6 +18,9 @@
   <img src="https://komarev.com/ghpvc/?username=nzm777-nzm&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile views" />
 </p>
 
+[![GitHub](https://img.shields.io/badge/GitHub-nzm--777-black?logo=github)](https://github.com/nzm777-nzm)
+
+
 ---
 
 ### 🧠 About Me  
