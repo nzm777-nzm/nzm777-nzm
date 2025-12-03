@@ -26,7 +26,7 @@
 💡 I’m a *Python Full Stack Developer* who loves blending clean backend logic with beautiful frontend design.  
 🚀 Currently building *React + Django* projects and learning *AI, APIs, and Cloud*.  
 ⚙ Experienced with *MySQL, REST APIs, TailwindCSS, and Git*.  
-🎯 Goal: To become one of the best problem-solving developers in the world.  
+🎯 Goal: To become one of the best problem-solving developer.  
 ⚡ Fun fact: I enjoy *football, singing, and exploring new tech trends*.
 
 ---
