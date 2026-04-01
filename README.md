@@ -21,7 +21,6 @@
 🚀 Currently building **React + Django** projects and exploring **AI, APIs, and Cloud**.  
 ⚙️ Experienced with **MySQL, REST APIs, TailwindCSS, TypeScript, and Git**.  
 💼 **Available for freelance projects** — I've delivered real-world websites for paying clients.  
-🏆 **Skyscanner Certified** — Front-End Software Engineering Job Simulation (April 2026).  
 🎯 Goal: To become one of the best problem-solving developers.  
 ⚡ Fun fact: I enjoy **football, singing, and exploring new tech trends**.
 
@@ -45,15 +44,6 @@
 | Python AI Agent | Python | ✅ Public |
 
 > 🔒 Most client projects are private due to confidentiality agreements.
-
----
-
-### 🏆 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Skyscanner-Front--End%20Software%20Engineering-00BFFF?style=for-the-badge&logo=skyscanner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forage-Certificate%20of%20Completion-0072C6?style=for-the-badge&logo=google&logoColor=white" />
-</p>
 
 ---
 
