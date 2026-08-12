@@ -19,10 +19,10 @@
 
 💡 I'm a **Python Full Stack Developer** who loves blending clean backend logic with beautiful frontend design.  
 🚀 Currently building **React + Django** projects and exploring **AI, APIs, and Cloud**.  
-⚙️ Experienced with **MySQL, REST APIs, TailwindCSS, TypeScript, and Git**.  
+⚙️ Experienced with **MySQL, REST APIs, TailwindCSS, Python, Django and Git**.  
 💼 **Available for freelance projects** — I've delivered real-world websites for paying clients.  
 🎯 Goal: To become one of the best problem-solving developers.  
-⚡ Fun fact: I enjoy **football, singing, and exploring new tech trends**.
+⚡ Fun fact: I enjoy **exploring new trends**.
 
 ---
 
@@ -42,6 +42,7 @@
 | Premium Portfolio Website | TypeScript, React | ✅ Delivered |
 | AI Voice Assistant | Python | ✅ Public |
 | Python AI Agent | Python | ✅ Public |
+|LMS-Platform_Zeitnah | React,Node.js,MogoDB | Team Project — Frontend Developer (React) | 🚀 Team Project
 
 > 🔒 Most client projects are private due to confidentiality agreements.
 
